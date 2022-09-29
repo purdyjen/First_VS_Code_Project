@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url("../images/the-lucky-neko-2JcixB1Ky3I-unsplash.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, .9);
+}
+
+.welcome {
+    height: 500px;
+    width: 800px;
+    background-color: rgba(0, 0, 0, .3);
+}
